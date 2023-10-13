@@ -1,0 +1,7 @@
+HyperPyYAML==1.1.0
+kaldiio==2.17.2
+numpy==1.23.5
+SoundFile==0.10.3.post1
+speechbrain==0.5.13
+torch==1.10.2
+tqdm==4.65.0

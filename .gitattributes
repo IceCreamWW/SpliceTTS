@@ -1,0 +1,2 @@
+examples/speech_ls960/local/data/phn.ctm filter=lfs diff=lfs merge=lfs -text
+examples/speech_ls960/local/data/wav.scp filter=lfs diff=lfs merge=lfs -text
